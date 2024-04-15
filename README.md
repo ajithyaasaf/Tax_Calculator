@@ -1,6 +1,6 @@
 # Tax_Calculator
 
-#To open this application
+#To Run this application
 
 1. Clone this repository
 
@@ -12,3 +12,4 @@
 
 1.Error icons should not be visible in the form by default.
 
+![image1](https://github.com/ajithyaasaf/Tax_Calculator/assets/84245047/3de6b261-dd4b-43eb-9873-6f8b12676aaa)
